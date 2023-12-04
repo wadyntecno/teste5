@@ -2,8 +2,13 @@
 
 ## nova data de teste para subir
 
-# local criando outra branch
+## local criando outra branch
 
-#### subindo sem alterações
+## ainda não fez nenhuma grande mudança
 
-conversões novas
+## foi uma alteração grandiosa, mas ????
+
+# distorção total
+
+
+
